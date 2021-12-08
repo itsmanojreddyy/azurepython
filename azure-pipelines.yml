@@ -52,4 +52,4 @@ steps:
 - task: PythonScript@0
   inputs:
     scriptSource: 'filePath'
-    scriptPath: 'Sample1/s.py'
+    scriptPath: 'Sample1/s2.py'
